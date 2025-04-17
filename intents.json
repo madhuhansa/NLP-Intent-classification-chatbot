@@ -1,0 +1,8 @@
+{
+    "greet": ["hello", "hi", "good morning", "hey","hey there", "howdy", "what's up", "hiya", "greetings", "salutations"],
+    "goodbye": ["bye", "see you later", "take care", "farewell", "adios", "catch you later", "peace out", "so long", "until next time"],
+    "thank_you": ["thank you", "thanks", "appreciate it", "grateful", "much obliged", "cheers", "thanks a lot", "thank you very much"],
+    "joke": ["tell me a joke", "make me laugh", "funny joke", "humor me", "crack a joke", "lighten the mood", "give me a laugh"]
+}
+  
+
