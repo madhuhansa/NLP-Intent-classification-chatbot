@@ -47,11 +47,11 @@ This project is a chatbot built using **BERT** (Bidirectional Encoder Representa
 
 ## 💬 Chatbot Responses
 
-- **Greet**: "Hello! How can I help you today?????"  
-- **Goodbye**: "Goodbye! Have a great day!"  
-- **Thank you**: "You're welcome!"  
-- **Joke**: "Why don't scientists trust atoms? Because they make up everything!"  
-- **Others**: "Sorry, I didn't understand that."
+- **Greet** : "Hello! How can I help you today?????"  
+- **Goodbye** : "Goodbye! Have a great day!"  
+- **Thank you** : "You're welcome!"  
+- **Joke** : "Why don't scientists trust atoms? Because they make up everything!"  
+- **Others** : "Sorry, I didn't understand that."
   
 ---
 ## 📜 Author
