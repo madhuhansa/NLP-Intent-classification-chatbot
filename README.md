@@ -18,7 +18,7 @@ This project is a chatbot built using **BERT** (Bidirectional Encoder Representa
 
 ## 🧑‍💻 Learnings
 
-- Fine-tune a BERT model for intent classification  
+- Fine tune a BERT model for intent classification  
 - Use Transformers and PyTorch for NLP tasks  
 - Serialize models and encoders using `joblib`  
 - Build a simple rule-based chatbot responding based on intent
